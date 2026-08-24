@@ -1,3 +1,7 @@
 Cours/
 devoirs/
 .idea/
+# Artefacts de compilation C
+*.o
+*.out
+a.out
